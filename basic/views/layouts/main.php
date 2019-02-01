@@ -45,7 +45,7 @@ AppAsset::register($this);
                 <div class="menu-desktop">
                     <ul class="main-menu">
                         <li>
-                            <a href="<?=Url::home()?>">Главная</a>
+                            <a href="<?=Url::home()?>">Главная тест</a>
                         </li>
 
                         <li>
